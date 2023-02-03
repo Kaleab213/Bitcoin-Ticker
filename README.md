@@ -1,16 +1,9 @@
-# bitcoin_ticker
+Bitcoin Ticker 🤑 <br>
 
 A new Flutter project.
 
-## Getting Started
+What I have created
 
-This project is a starting point for a Flutter application.
+I made a crypto currency price checking app. now I am able to monitor my bitcoin investents on the move!
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![bitcoin-flutter-demo](https://user-images.githubusercontent.com/119089252/216655307-66a4bbb4-1fee-4ca2-b54d-f8ab3a8a92d7.gif)
